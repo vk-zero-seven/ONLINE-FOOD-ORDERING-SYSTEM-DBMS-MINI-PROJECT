@@ -1,0 +1,13 @@
+1. Extract the fos folder in directory.
+2. Copy the fos folder to C:/xampp/htdocs
+3. Launch xampp. Start both Apache and MYSql.
+4. Open your browser and search localhost. Xamp Welcome page opens. Now click on phpMyAdmin on above
+     right corner.
+5. PhpMyAdmin Launches. Click new. Enter database name as "fos-db". (without " ") and dropdown box select Collation
+    and now click on create.
+6. After creating database.
+7.  Click on Import. Click on Choose.
+8. Choose the fos_db file from C:/xampp/htdocs/fos/database/fos_db.
+8. Scroll down and click on Go button.
+9. After setting the database. 
+9. Now launch the website using "localhost/fos". (without " ")
